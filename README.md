@@ -1,7 +1,9 @@
 # Python_Tutorial_Basics
-Learn Python basics 
+Learn Python basics thought with ease in Jupyter notebooks.
 
 
-Tutorial_1: Python Variables
+Tutorial_1: Python Syntax
 
-Tutorial_2: Python Lists
+Tutorial_2: Python Variables
+
+
